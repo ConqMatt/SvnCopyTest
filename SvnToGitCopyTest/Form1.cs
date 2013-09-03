@@ -23,7 +23,7 @@ namespace SvnToGitCopyTest
             int val2 = 0;
             int.TryParse(textBox2.Text, out val2);
 
-            result.Text = (val1 + val2).ToString();
+            result.Text = (val1 - val2).ToString();
         }
     }
 }

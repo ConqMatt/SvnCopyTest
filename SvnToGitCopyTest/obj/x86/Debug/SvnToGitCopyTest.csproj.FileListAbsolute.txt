@@ -7,3 +7,12 @@ c:\users\matthew\documents\visual studio 2010\Projects\SvnToGitCopyTest\SvnToGit
 c:\users\matthew\documents\visual studio 2010\Projects\SvnToGitCopyTest\SvnToGitCopyTest\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\matthew\documents\visual studio 2010\Projects\SvnToGitCopyTest\SvnToGitCopyTest\obj\x86\Debug\SvnToGitCopyTest.exe
 c:\users\matthew\documents\visual studio 2010\Projects\SvnToGitCopyTest\SvnToGitCopyTest\obj\x86\Debug\SvnToGitCopyTest.pdb
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\SvnToGitCopyTest.exe
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\SvnToGitCopyTest.pdb
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\bin\Debug\SvnToGitCopyTest.exe
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\bin\Debug\SvnToGitCopyTest.pdb
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\SvnToGitCopyTest.Form1.resources
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\SvnToGitCopyTest.Properties.Resources.resources
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew\Documents\testdownload\SvnCopyTest\SvnToGitCopyTest\obj\x86\Debug\GenerateResource.write.1.tlog
