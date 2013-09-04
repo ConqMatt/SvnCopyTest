@@ -1,1 +1,11 @@
 * text=auto !eol
+/SvnHistoryToGitTest.sln -text svnc_vs_003aproject_002droot=
+SvnHistoryToGitTest/Form1.Designer.cs -text
+SvnHistoryToGitTest/Form1.cs -text
+SvnHistoryToGitTest/Program.cs -text
+SvnHistoryToGitTest/Properties/AssemblyInfo.cs -text
+SvnHistoryToGitTest/Properties/Resources.Designer.cs -text
+SvnHistoryToGitTest/Properties/Resources.resx -text
+SvnHistoryToGitTest/Properties/Settings.Designer.cs -text
+SvnHistoryToGitTest/Properties/Settings.settings -text
+SvnHistoryToGitTest/SvnHistoryToGitTest.csproj -text
