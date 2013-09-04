@@ -14,10 +14,7 @@ namespace SvnHistoryToGitTest
         public Form1()
         {
             InitializeComponent();
-            if (0 > 1)
-            {
-                MessageBox.Show("fail");
-            }
+            MessageBox.Show("Neither success or fail");
         }
     }
 }
